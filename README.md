@@ -25,7 +25,6 @@ Just pull this repo and start using scripts
   xii.  'If prompted, confirm your GitHub password.'
   
   Take an reference from https://help.github.com/articles/checking-for-existing-ssh-keys
-  --------------------------------------------------
  
  3. git_push.sh
   This script simply push your code o your git repo with your choice branch
