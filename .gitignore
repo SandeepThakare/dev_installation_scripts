@@ -1,0 +1,5 @@
+#vscode package
+.vscode
+
+#nvm dependancy
+install_nvm.sh
