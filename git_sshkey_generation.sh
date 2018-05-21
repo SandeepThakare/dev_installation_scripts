@@ -32,6 +32,8 @@ echo '------------------------------------------------'
 echo 'Copies the contents of the id_rsa.pub file to your clipboard'
 xclip -sel clip < ~/.ssh/id_rsa.pub
 
+echo '------------------------------------------------'
+
 echo 'ssh key is copied on your clip board'
 echo 'Now login into you git account through browser'
 echo 'In the upper-right corner of any page, click your profile photo.'
