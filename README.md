@@ -27,5 +27,8 @@ Just pull this repo and start using scripts
   Take an reference from https://help.github.com/articles/checking-for-existing-ssh-keys
   --------------------------------------------------
  
- 3.
+ 3. git_push.sh
+  This script simply push your code o your git repo with your choice branch
+  If you did't set your ssh key then it will prompt you for username and password
+  Top skip this run 'git_ssh_key_generation.sh' script first and change your remote 
   
