@@ -11,7 +11,7 @@ Just pull this repo and start using scripts
 2. git_ssh_key_generation.sh
   This script uses when you want to set-up the ssh key for your repo.
   You need to do some extra efforts as follows after successful run of this script
-  i.    'ssh key is copied on your clip board'
+  i.    'ssh key is copied on your clip board' /n
   ii.   'Now login into you git account through browser'
   iii.  'In the upper-right corner of any page, click your profile photo.'
   iv.   'then click Settings.'
