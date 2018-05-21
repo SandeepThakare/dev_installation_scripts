@@ -30,5 +30,5 @@ Just pull this repo and start using scripts
  3. git_push.sh
   This script simply push your code o your git repo with your choice branch
   If you did't set your ssh key then it will prompt you for username and password
-  Top skip this run 'git_ssh_key_generation.sh' script first and change your remote 
+  Top skip this run 'git_ssh_key_generation.sh' script first and change your remote url to ssh url
   
