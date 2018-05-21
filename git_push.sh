@@ -4,7 +4,7 @@ clear
 
 #add files to commit
 git add .
-echo 'Files added !!!!' \n\n
+echo 'Files added !!!!'
 
 #commit files with message
 read -p "Enter commit message : " message
