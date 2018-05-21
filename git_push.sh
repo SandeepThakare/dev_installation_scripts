@@ -1,4 +1,4 @@
-# Script to aws configuration
+# Script to push changes on git configuration/setup
 # @author sandeep thakare
 # @since 21st May 2018
 

@@ -1,4 +1,4 @@
-# Script to aws configuration
+# Script to git ssh key configuration/setup
 # @author sandeep thakare
 # @since 21st May 2018
 
