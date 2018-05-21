@@ -1,3 +1,7 @@
+# Script to aws configuration
+# @author sandeep thakare
+# @since 21st May 2018
+
 echo 'Check id key is exist or not'
 ls -al ~/.ssh 
 

@@ -1,3 +1,7 @@
+# Script to aws configuration
+# @author sandeep thakare
+# @since 21st May 2018
+
 #check system configuration
 echo 'Checking system configuration'
 lsb_release -a
