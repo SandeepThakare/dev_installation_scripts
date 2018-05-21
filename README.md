@@ -24,10 +24,14 @@ Just pull this repo and start using scripts
   xi.   'Click Add SSH key.'<br />
   xii.  'If prompted, confirm your GitHub password.'<br />
   
-  Take an reference from https://help.github.com/articles/checking-for-existing-ssh-keys<br />
+  Take an reference from https://help.github.com/articles/checking-for-existing-ssh-keys<br/>
  
  3. git_push.sh
   This script simply push your code o your git repo with your choice branch
   If you did't set your ssh key then it will prompt you for username and password
   Top skip this run 'git_ssh_key_generation.sh' script first and change your remote url to ssh url
+
+ 4. docker.sh
+  This script install docker and docker compose in your system.
+  If docker is already present then 1st this script will remove that version and install latest version
   
