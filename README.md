@@ -19,7 +19,7 @@ Just pull this repo and start using scripts
   vi.   'Click New SSH key or Add SSH key.'<br />
   vii.  'In the "Title" field, add a descriptive label for the new key.' <br />
   viii. 'For example, if you are using a personal Mac,' <br />
-  ix.   'Yo might call this key -- {your key name}'<br />
+  ix.   'You might call this key -- {your key name}'<br />
   x.    'Paste your key into the "Key" field.'<br />
   xi.   'Click Add SSH key.'<br />
   xii.  'If prompted, confirm your GitHub password.'<br />

@@ -2,6 +2,9 @@
 #clear screen
 clear
 
+#check status of files
+git status
+
 #add files to commit
 git add .
 echo 'Files added !!!!'
