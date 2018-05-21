@@ -3,3 +3,6 @@
 
 #nvm dependancy
 install_nvm.sh
+
+#pip
+get-pip.py
