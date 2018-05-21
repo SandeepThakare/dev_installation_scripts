@@ -34,4 +34,14 @@ Just pull this repo and start using scripts
  4. docker.sh
   This script install docker and docker compose in your system.
   If docker is already present then 1st this script will remove that version and install latest version
+
+ 5. aws_cli_installation.sh
+  This script install and set up aws cli on your local system.
+  You need aws use access key and secret key to set up aws cli 
+  If you do not have credential then you can generate by using follwing steps<br />
+  i.    Visit https://console.aws.amazon.com/iam/home?region=us-east-1#/home<br />
+  ii.   Click on Users --> Add Users --> Choose Access Type "Programmatic access" -->
+        Create group with "AdministratorAccess" access policy --> Click Creae User<br />
+  iii.  Note down the access key and secret key or download csv using "download csv" button        on left upper corner<br />
+  iv.   run "aws configure" command and provide access key and secret key<br />
   
