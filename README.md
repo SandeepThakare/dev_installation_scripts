@@ -46,4 +46,4 @@ Just pull this repo and start using scripts <br /><br />
   iv.   run "aws configure" command and provide access key and secret key<br />
 
  6. <b>serverless.sh:</b><br />
-  #Comming Soon  
+  #Coming Soon  
