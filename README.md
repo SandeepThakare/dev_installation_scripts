@@ -45,5 +45,5 @@ Just pull this repo and start using scripts <br /><br />
   iii.  Note down the access key and secret key or download csv using "download csv" button on left upper corner<br />
   iv.   run "aws configure" command and provide access key and secret key<br />
 
- 6. serverless_installation_and_project_setup.sh:<br />
+ 6. <b>serverless.sh:</b><br />
   #Comming Soon  
