@@ -20,10 +20,10 @@ getServerlessApp() {
         serverless create --template aws-nodejs --path "$PROJECT_NAME"
     elif [ $option -eq 2 ]
     then
-        git clone https://github.com/SandeepThakare/dev_installation_scripts.git "$PROJECT_NAME"
+        git clone https://github.com/SandeepThakare/aws-cicd-using-circleci.git "$PROJECT_NAME"
         cd $PROJECT_NAME
         npm install
-        
+
     else
         echo "Invalid Key Press.."
         echo 'Choose again .....'
