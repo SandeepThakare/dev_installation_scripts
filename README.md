@@ -1,7 +1,7 @@
 # dev_installation_scripts
 
 This repo is only use for scripts building to do less work in installing dependancies which causes extra efforts for developers
-Just pull this repo and start using scripts <br /><br />
+Just pull this repo and start using these scripts <br /><br />
 
 1. <b>node-setup.sh:</b><br />
   This script uses to install node package with nvm and npm
