@@ -19,7 +19,7 @@ Just pull this repo and start using these scripts <br /><br />
   v.    'In the user settings sidebar, click SSH and GPG keys.'<br />
   vi.   'Click New SSH key or Add SSH key.'<br />
   vii.  'In the "Title" field, add a descriptive label for the new key.' <br />
-  viii. 'For example, if you are using a personal Mac,' <br />
+  viii. 'For example, if you are using a personal System,' <br />
   ix.   'You might call this key -- {your key name}'<br />
   x.    'Paste your key into the "Key" field.'<br />
   xi.   'Click Add SSH key.'<br />
