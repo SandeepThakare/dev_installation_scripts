@@ -6,10 +6,11 @@ Just pull this repo and start using these scripts <br /><br />
 1. <b>node-setup.sh:</b><br />
   This script uses to install node into your system with nvm (node version manager) and npm (node package manager)
   This script install latest nodejs version
-  you can also use "lts" package by choose option lts when prompt
+  you can also use "lts" package by choose option "lts" when prompt
   
 2. <b>git_ssh_key_generation.sh:</b><br />
   This script uses when you want to set-up the ssh key for your repo. <br />
+  This scripts sets the ssh key, which can directly push your code to repo without typing username and password. <br />
   You need to do some extra efforts as follows after successful run of this script<br />
   i.    'ssh key is copied on your clip board'<br />
   ii.   'Now login into you git account through browser'<br />
