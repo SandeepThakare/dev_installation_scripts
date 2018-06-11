@@ -28,7 +28,7 @@ Just pull this repo and start using these scripts <br /><br />
   Take an reference from <b>https://help.github.com/articles/checking-for-existing-ssh-keys</b><br/>
  
  3. <b>git_push.sh:</b><br />
-  This script simply push your code o your git repo with your choice branch
+  This script simply push your code into your git repo with your choice branch
   If you did't set your ssh key then it will prompt you for username and password
   Top skip this run 'git_ssh_key_generation.sh' script first and change your remote url to ssh url
 
@@ -47,4 +47,4 @@ Just pull this repo and start using these scripts <br /><br />
   iv.   run "aws configure" command and provide access key and secret key<br />
 
  6. <b>serverless.sh:</b><br />
-  #Coming Soon  
+  #this script is under development. We'll update it soon
