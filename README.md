@@ -4,7 +4,7 @@ This repo is only use for scripts building to do less work in installing dependa
 Just pull this repo and start using these scripts <br /><br />
 
 1. <b>node-setup.sh:</b><br />
-  This script uses to install node into your system with nvm and npm
+  This script uses to install node into your system with nvm (node version manager) and npm (node package manager)
   This script install latest nodejs version
   you can also use "lts" package by choose option lts when prompt
   
