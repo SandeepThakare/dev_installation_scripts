@@ -28,14 +28,14 @@ sudo apt-get update
 #you will need to install the build-essential package:
 sudo apt-get install build-essential libssl-dev
 
-echo 'Pull nvm shell script'
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh -o install_nvm.sh
+echo 'Pull and Run nvm shell script'
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash
 
-echo 'inspect the installation script'
-nano install_nvm.sh
+# echo 'inspect the installation script'
+# nano install_nvm.sh
 
-echo 'Run the script with bash'
-bash install_nvm.sh
+# echo 'Run the script with bash'
+# bash install_nvm.sh
 
 #To gain access to the nvm functionality, 
 #you'll need to log out and log back in again, 
