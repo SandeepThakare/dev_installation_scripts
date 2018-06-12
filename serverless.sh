@@ -23,10 +23,14 @@ getServerlessApp() {
         git clone https://github.com/SandeepThakare/aws-cicd-using-circleci.git "$PROJECT_NAME"
         cd $PROJECT_NAME
         npm install
-
     else
         echo "Invalid Key Press.."
         echo 'Choose again .....'
-        installNodeLatest
+        getServerlessApp
     fi
 }
+
+getServerlessApp
+
+echo 'Serverless and default project setup is set on ypu system........'
+echo 'Happy Coading :):)'
