@@ -12,6 +12,9 @@ git status
 git add .
 echo 'Files added !!!!'
 
+#check status of added files
+git status
+
 #commit files with message
 read -p "Enter commit message : " message
 

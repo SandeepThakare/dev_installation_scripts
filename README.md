@@ -42,7 +42,7 @@ Just pull this repo and start using these scripts <br /><br />
   If you do not have credential then you can generate by using follwing steps<br />
   i.    Visit https://console.aws.amazon.com/iam/home?region=us-east-1#/home<br />
   ii.   Click on Users --> Add Users --> Choose Access Type "Programmatic access" -->
-        Create group with "AdministratorAccess" access policy --> Click Creae User<br />
+        Create group with "AdministratorAccess" access policy --> Click Create User<br />
   iii.  Note down the access key and secret key or download csv using "download csv" button on left upper corner<br />
   iv.   run "aws configure" command and provide access key and secret key<br />
 
