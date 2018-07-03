@@ -47,4 +47,4 @@ Just pull this repo and start using these scripts <br /><br />
   iv.   run "aws configure" command and provide access key and secret key<br />
 
  6. <b>serverless.sh:</b><br />
-  #this script is under development. We'll update it soon
+  This script is for set up serverless dependency in system
