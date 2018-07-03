@@ -47,4 +47,6 @@ Just pull this repo and start using these scripts <br /><br />
   iv.   run "aws configure" command and provide access key and secret key<br />
 
  6. <b>serverless.sh:</b><br />
-  This script is for set up serverless dependency in system
+  This script is for set up serverless dependency in system.
+  By using this script you can set up serverless in your system and you can set the simple project or project with ES7 module 
+  and other functionalities
