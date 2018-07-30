@@ -39,11 +39,11 @@ echo "This is an optional setup to allow access to the other servers by providin
 echo "You can cancle this by selecting no option. "
 
 optionalSetUp() {
-    echo -e "This is an optional set up. Do you want to countinue. Y/N : "
+    echo -n "This is an optional set up. Do you want to countinue. Y/N : "
     read option
-    if [ $option -eq "Y" || $option -eq "y" ]
+    if [ "${option}" = "Y" -o "${option}" = "y" ]
     then
-        echo -e "Please provide other server address : "
+        echo "Please provide other server address : "
         read ip_address
         sudo ufw allow from $ip_address/32 to any port 27017
     else
