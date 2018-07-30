@@ -52,3 +52,7 @@ echo 'Click Add SSH key.'
 echo 'If prompted, confirm your GitHub password.'
 echo '------------------------------------------------'
 echo 'Get reference from -- https://help.github.com/articles/checking-for-existing-ssh-keys'
+
+echo '------------------------------------------------'
+
+echo 'Installation Done - Happy Code !!!!!'
