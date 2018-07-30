@@ -42,5 +42,5 @@ getServerlessApp() {
 
 getServerlessApp
 
-echo 'Serverless and default project setup is set on ypu system........'
+echo 'Serverless and default project setup is set on your system........'
 echo 'Happy Coading :):)'
