@@ -11,7 +11,7 @@ echo 'Download the installation script from pypa.io'
 curl -O https://bootstrap.pypa.io/get-pip.py
 
 echo 'Run the script with python'
-python get-pip.py --user
+sudo python get-pip.py --user
 
 echo 'Adding the executable path to your PATH variable: ~/.local/bin'
 ls -a ~
@@ -32,7 +32,7 @@ echo 'Installing the AWS CLI with Pip'
 echo '--------------------------------------------------------------------------------------'
 
 echo 'Install aws-cli using pip'
-pip install awscli --upgrade --user
+sudo pip install awscli --upgrade --user
 
 echo 'Verify aws-cli install correctly'
 
@@ -45,7 +45,7 @@ echo 'Adding the AWS CLI Executable to your Command Line Path'
 echo '--------------------------------------------------------------------------------------'
 
 echo 'Add an export command to your profile script'
-export PATH=~/.local/bin:$PATH
+sudo export PATH=~/.local/bin:$PATH
 
 echo 'Load profile into your current session'
 source ~/.bash_profile
