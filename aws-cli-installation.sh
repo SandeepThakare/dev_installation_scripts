@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Script to aws configuration
 # @author sandeep thakare
 # @since 21st May 2018
@@ -20,7 +22,7 @@ echo 'Adding an export command to your profile script.'
 export PATH=~/.local/bin:$PATH
 
 echo 'Loading the profile into your current session'
-source ~/.bash_profile
+source ~/.profile
 
 echo 'Verifying that pip is install correctly'
 pip --version
@@ -45,10 +47,10 @@ echo 'Adding the AWS CLI Executable to your Command Line Path'
 echo '--------------------------------------------------------------------------------------'
 
 echo 'Add an export command to your profile script'
-sudo export PATH=~/.local/bin:$PATH
+export PATH=~/.local/bin:$PATH
 
 echo 'Load profile into your current session'
-source ~/.bash_profile
+source ~/.profile
 
 echo '--------------------------------------------------------------------------------------'
 
