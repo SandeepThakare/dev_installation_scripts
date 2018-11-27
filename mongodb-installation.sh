@@ -64,4 +64,4 @@ echo " "
 
 echo " "
 
-echo "------------------- Installation done : Happy Coding !!!!! ------------------"
+echo "------------------- Installation done : Happy Codeing !!!!! :)------------------"
