@@ -34,7 +34,7 @@ echo 'Installing the AWS CLI with Pip'
 echo '--------------------------------------------------------------------------------------'
 
 echo 'Install aws-cli using pip'
-sudo pip install awscli --upgrade --user
+pip install awscli --upgrade --user
 
 echo 'Verify aws-cli install correctly'
 
