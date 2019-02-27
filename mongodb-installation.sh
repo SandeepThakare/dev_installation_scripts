@@ -18,7 +18,7 @@ echo "----------------- Installing and Verifying MongoDB -----------------"
 
 echo "Now we can install the MongoDB package itself."
 
-sudo apt-get install -y mongodb-org=4.0.2 mongodb-org-server=4.0.2 mongodb-org-shell=4.0.2 mongodb-org-mongos=4.0.2 mongodb-org-tools=4.0.2
+sudo apt-get install -y mongodb-org
 
 echo "Start mongodb with systemctl"
 
